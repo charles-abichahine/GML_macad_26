@@ -47,3 +47,12 @@ Thumbs.db
 ##################################################
 
 GML_notebooks_folder/
+
+##################################################
+# LARGE BINARIES
+# Kept out of the repo, not out of the project.
+# Seagram.3dm is the 53MB Rhino source for assignment 03;
+# the notebook that reads it needs it supplied locally.
+##################################################
+
+Graph-ML-Seminar/03-Building Graph Representation/assets/Seagram.3dm
